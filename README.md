@@ -1,27 +1,43 @@
-# Portfolio
+<!-- Twitter icon from https://github.com/carlsednaoui/gitsocial -->
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+# _Portfolio_
 
-## Development server
+#### **Dawn Mott** :sunrise_over_mountains: _June 15th, 2018_
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
+_This app is an update of my  [Portfolio](https://beyonce.com) project from week one of Epicodus. Site built with Angular and flattery_
+<div style="text-align:center"><img src="./src/assets/portfolio1.png" alt="screen shot of portfolio from week one" width="300"></div>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Setup/Installation Requirements
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+* _Install Angular CLI globally_
+* _Clone this repository_
+* _In a new tab, navigate to [this page](https://youtu.be/OSAOsm1u-OE)_
+* _Return to previous task_
+* _Run "npm install --style=scss" in CLI_
+* _Run "ng build" in CLI_
+* _Run "ng serve --open" in CLI_
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<div style="text-align:center"><img src="https://imgix.bustle.com/lovelace/uploads/249/78d22db0-5614-0132-4214-0ebc4eccb42f.png?w=614&fit=max&auto=format&q=70" alt="Beyonce 711 video still, namaste" width="300"></div>
 
-## Running end-to-end tests
+## Known Bugs
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+_There are many known :bug: at this time, this is a work in progress_
 
-## Further help
+## Support and contact details
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+_If you'd like to chat, please contact_ @dawnrparty _on_ ![alt text][1.1]
+
+## Technologies Used
+
+_HTML, SCSS, JavaScript, Angular, and flattery_
+
+### License
+
+*This page is licensed under the MIT license*
+
+&copy; 2018 **Dawn Mott** :sunrise_over_mountains:
