@@ -8,7 +8,9 @@
 ## Description
 
 _This app is an update of my  [Portfolio](https://beyonce.com) project from week one of Epicodus. Site built with Angular and flattery_
-<div style="text-align:center"><img src="./src/assets/portfolio1.png" alt="screen shot of portfolio from week one" width="300"></div>
+<div style="text-align:center"><img src="./src/assets/portfolio1.png" alt="screen shot of portfolio from week one" width="300">
+Mobile design in Sketch
+<br><img src="./src/assets/mobile-port.png" alt="screen shot of portfolio from week one" width="200"></div>
 
 
 ## Setup/Installation Requirements
